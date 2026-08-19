@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Khadar Vali 👋
 
-<!--
-**zayn123-khadar/zayn123-khadar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Python Developer Fresher | B.Tech ECE Student
 
-Here are some ideas to get you started:
+I'm a B.Tech Electronics and Communication Engineering student interested in Python development, software development, and problem solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- SQL
+- Git & GitHub
+- HTML & CSS
+- Problem Solving
+- Basic Software Development
+
+## 📌 Currently Learning
+
+- Python Development
+- Data Structures & Algorithms
+- SQL
+- Git & GitHub
+- Backend Development
+
+## 💻 Projects
+
+Coming soon...
+
+## 🎯 Career Goal
+
+To start my career as a Python Developer and continuously improve my programming and software development skills.
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/Khadarvali123
+
+
