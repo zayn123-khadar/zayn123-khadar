@@ -11,9 +11,8 @@ I'm a B.Tech Electronics and Communication Engineering student interested in Pyt
 - Git & GitHub
 - HTML & CSS
 - Problem Solving
-- Basic Software Development
 
-## 📌 Currently Learning
+## 📚 Currently Learning
 
 - Python Development
 - Data Structures & Algorithms
@@ -23,7 +22,9 @@ I'm a B.Tech Electronics and Communication Engineering student interested in Pyt
 
 ## 💻 Projects
 
-Coming soon...
+- Python Projects
+- SQL Projects
+- Problem Solving Projects
 
 ## 🎯 Career Goal
 
@@ -32,5 +33,3 @@ To start my career as a Python Developer and continuously improve my programming
 ## 📫 Connect With Me
 
 - GitHub: https://github.com/Khadarvali123
-
-
